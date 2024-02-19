@@ -1,6 +1,6 @@
 {
   "name": "react-native-vietnamese-lunar-calendar",
-  "version": "1.22.0",
+  "version": "1.22.1",
   "main": "src/index.js",
   "description": "React Native Calendar Components support Lunar Calendars",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinhnglx/react-native-vietnamese-lunar-calendar.git"
+    "url": "git+https://github.com/trantancuong/react-native-vietnamese-lunar-calendars"
   },
   "author": "Wix.com",
   "license": "MIT",
