@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trantancuong/react-native-vietnamese-lunar-calendar"
+    "url": "git+https://github.com/vinhnglx/react-native-vietnamese-lunar-calendar.git"
   },
   "author": "Wix.com",
   "license": "MIT",
